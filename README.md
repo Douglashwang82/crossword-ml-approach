@@ -10,7 +10,7 @@
 
 ## 2. Technology Stack  
 - **Frontend**: React (with Tailwind for styling)  
-- **Backend** (optional): Node.js with Express (if needed for multiplayer or saving puzzles)  
+- **Backend** (optional): python (flask)
 - **Data Storage**: JSON or database (PostgreSQL or Firebase)  
 - **Other Libraries**:  
   - `react-draggable` for interactive grid movement  
